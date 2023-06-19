@@ -1,0 +1,37 @@
+Mon Jun 19 18:57:09 CDT 2023 : Apache Derby Servidor de Rede - 10.14.2.0 - (1828579) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Mon Jun 19 18:57:26 CDT 2023:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância a816c00e-0188-d617-345f-ffffe9fc8bda
+no diretório de banco de dados C:\Users\Aluno\Documents\derby\playerDB 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=C:\Users\Aluno\Documents\derby\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Aluno\Documents\derby
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jun 19 18:57:27 CDT 2023:
+Encerrando a instância a816c00e-0188-d617-345f-ffffe9fc8bda
+Mon Jun 19 18:57:27 CDT 2023 Thread[DRDAConnThread_3,5,main] (DATABASE = playerDB), (DRDAID = {2}), Banco de dados 'playerDB' fechado.
+----------------------------------------------------------------
+Mon Jun 19 18:57:50 CDT 2023:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância 6ede40af-0188-d617-345f-ffffe9fc8bda
+no diretório de banco de dados C:\Users\Aluno\Documents\derby\playerDB 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=C:\Users\Aluno\Documents\derby\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Aluno\Documents\derby
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jun 19 19:55:25 CDT 2023: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Jun 19 19:55:25 CDT 2023:
+Encerrando a instância 6ede40af-0188-d617-345f-ffffe9fc8bda
+----------------------------------------------------------------
